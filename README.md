@@ -1,2 +1,2 @@
 # Hellow-world
-this whre write things about your progect
+this whre u can writes things about your progect
